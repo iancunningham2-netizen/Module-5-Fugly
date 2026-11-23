@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
     font-size: 1em;
     color: navy;
-    background-color: lightgray;
+    background-color: rgb(173, 138 184);
 }
 
-/8* type selector */
+/* type selector */
 h1 {
-    color: darkgreen;
+    border: 15px dashed olivedrab;
     font-size: 2em;
 }
 
