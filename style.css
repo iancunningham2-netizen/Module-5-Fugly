@@ -3,14 +3,13 @@ body {
     font-family: Arial, sans-serif;
     font-size: 1em;
     color: navy;
-    background-color: rgb(255, 239, 0);
-}
+    }
 
 /* type selector */
 h1 {
     border: 15px dashed olivedrab;
     padding: 20px
-    background-color 
+    background-color: rgb(255, 239, 0); 
     font-size: 2em;
 }
 
