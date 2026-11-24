@@ -1,0 +1,21 @@
+body {
+    background-color: lime;
+    color: magenta;
+    font-family: "Comic Sans MS", cursive;
+}
+
+h1 {
+    background-color: cyan;
+    color: red;
+    border: 10px dotted orange;
+    padding: 20px;
+}
+
+.columns {
+    column-count: 3;
+    column-gap: 50px;
+}
+
+a {
+    color: blue;
+}
